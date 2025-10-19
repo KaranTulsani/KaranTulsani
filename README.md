@@ -8,8 +8,8 @@ An engineering student with a passion for tech and entrepreneurship. I thrive on
 
 ### 🚀 About Me
 
-* 👨🏽‍💻 Currently diving deep into the **MERN stack** and building full-stack applications.
-* 🤖 Passionate about **AI/ML**, and exploring cutting-edge technologies.
+* 👨🏽‍💻 Building full-stack applications, with experience in the **MERN stack**.
+* 🤖 Skilled in **Machine Learning**, with hands-on experience in computer vision (YOLOv8) and predictive modeling. Currently diving deep into **Generative AI** and building agentic systems.
 * 🤝 Open to collaborating on **impactful, real-world projects** that create meaningful change.
 * 🌱 Continuously learning and growing — always excited to connect with fellow tech enthusiasts.
 * 🔍 Driven by a desire to **solve complex problems** and leverage technology to improve everyday lives.
@@ -18,7 +18,7 @@ An engineering student with a passion for tech and entrepreneurship. I thrive on
 
 ### 📊 GitHub Stats
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karantulsani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile)  
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karantulsani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karantulsani&layout=compact&hide_border=true&theme=dark)
 
 ---

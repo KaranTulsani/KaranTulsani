@@ -18,7 +18,7 @@ An engineering student with a passion for tech and entrepreneurship. I thrive on
 
 ### 📊 GitHub Stats
 
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karantulsani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile)  
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karantulsani&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karantulsani&layout=compact&hide_border=true&theme=dark)
 
 ---
